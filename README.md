@@ -10,7 +10,7 @@ Install OpenCV : pip install opencv-python
 
 # Usage
 
-1) Clone this Repo : git clone https://github.com/Mohamed87Yahyaoui/Licence-Plate-Recognition.git
+1) Clone this Repo : git clone https://github.com/adnanedrief/Face-Recognition.git
 
 2) Open your favorite IDE or use CMD. 
 
